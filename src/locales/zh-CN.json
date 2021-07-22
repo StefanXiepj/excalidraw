@@ -103,7 +103,8 @@
     "share": "分享",
     "showStroke": "显示描边颜色选择器",
     "showBackground": "显示背景颜色选择器",
-    "toggleTheme": "切换主题"
+    "toggleTheme": "切换主题",
+    "handChinese": "中文手写"
   },
   "buttons": {
     "clearReset": "重置画布",
